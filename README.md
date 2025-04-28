@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rish106-hub
+- 👋 Hi, I’m Rishav Dewan
 - 👀 I’m interested in the intersection of humanity and AI 
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on the application of AI in companies 
