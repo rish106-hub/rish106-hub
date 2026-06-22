@@ -1,6 +1,6 @@
 - Hi, I’m Rishav Dewan
 - I’m interested in the intersection of humanity and AI 
-- I’m currently learning JavaScript and React
+- I’m currently exploring AI fundamentals
 - I’m looking to collaborate on the application of AI in companies 
 - How to reach me :- rishavdewan10@gmail.com
 - Pronouns: He/Him
