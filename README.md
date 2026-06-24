@@ -39,7 +39,7 @@ Indian consumer tech. Agentic AI. Platforms that connect people in ways that act
 - **[ARTH](https://github.com/rish106-hub/ARTH)** — India's first tax gap intelligence app. Every rupee you overpay, recovered. `Flutter` `Dart`
 - **[CostSense](https://github.com/rish106-hub/CostSense)** — 9-agent AI pipeline that detects enterprise spend anomalies and acts before the quarter ends. `Python`
 - Contributing patches to **Zulip**, **Joomla**, **Rocket.Chat**, **Twenty**, **Music Blocks**
-- Writing about product and AI at **[medium.com/@rishavdewan10](https://medium.com/@rishavdewan10)**
+- Writing about businesses , product and AI at **[medium.com/@rishavdewan10](https://medium.com/@rishavdewan10)**
 
 ---
 
