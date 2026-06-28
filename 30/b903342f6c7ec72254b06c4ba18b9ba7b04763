@@ -1,0 +1,19 @@
+README.md
+  s_b8eaea1e98e6bf::t_31d95970909c78 108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "30b903342f6c7ec72254b06c4ba18b9ba7b04763",
+  "prompts": {},
+  "sessions": {
+    "s_b8eaea1e98e6bf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8135ec5-2e95-47ce-95e1-bba0c40d1526",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
