@@ -105,7 +105,7 @@ Portfolio: **[ProductHunt →](https://www.producthunt.com/@rishav_dewan)**
 [![ARTH](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=ARTH&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/ARTH)
 
 [![CostSense](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=CostSense&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/CostSense)
-[![Swiggy-VertexCart](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=Swiggy-VertexCart&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/Swiggy-VertexCart)
+[![EatRight](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=EatRight&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/EatRight)
 
 [![Leadline](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=Leadline&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/Leadline)
 [![NEET-counselling](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=NEET-counselling&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/NEET-counselling)
