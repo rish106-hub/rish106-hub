@@ -1,0 +1,19 @@
+README.md
+  s_ea2b75b5d04dc9::t_e78185b4e7b07d 133-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f0aacef1941280851537194949133ec7ead3eee0",
+  "prompts": {},
+  "sessions": {
+    "s_ea2b75b5d04dc9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f380c-a065-7c43-89be-ad276b61f56d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
