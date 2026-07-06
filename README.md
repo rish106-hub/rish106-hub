@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishav%20Dewan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Builder.%20%20Thinker.%20%20Shipper.&descAlignY=58&descSize=18&descColor=9ca3af"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishav%20Dewan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Products%2C%20end%20to%20end.&descAlignY=58&descSize=18&descColor=9ca3af"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=Product+Manager+who+writes+the+code+too;Full-Stack+Dev+who+thinks+in+PRDs+%26+metrics;Building+products+for+India's+next+billion;OSS+contributor+across+6%2B+production+codebases;From+0+to+shipped+%E2%80%94+that's+the+only+metric+I+track" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=I+don't+pitch+products+%E2%80%94+I+build+them;PRD+in+the+morning%2C+production+code+by+night;Reimagining+products+%40Arthakram;Shipping+for+India's+next+billion+users;If+it's+not+live%2C+it's+not+done" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rishav-dewan)
 [![ProductHunt](https://img.shields.io/badge/ProductHunt-0d1117?style=for-the-badge&logo=producthunt&logoColor=DA552F)](https://www.producthunt.com/@rishav_dewan)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishavdewan10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-six-65.vercel.app/)
 [![Email](https://img.shields.io/badge/rishavdewan10%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rishavdewan10@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=rish106-hub&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/rish106-hub)
 
@@ -29,17 +30,79 @@ I write the PRD, architect the backend, ship the app, and measure what actually 
 
 Indian consumer tech. Agentic AI. Platforms that connect people in ways that actually matter.
 
+Three questions run every decision I make: **What problem, validated with real users, not assumptions? What metric moves, and if I can't name it, why am I building it? What's the smallest thing that proves it, before anything else gets built?**
+
 </div>
 
 ---
 
-## What I'm shipping right now
+## Products I've shipped
 
-- **[Raaz](https://github.com/rish106-hub/Raaz)** — Anonymous, structured conversation platform for Indian Gen Z. No profiles, no photos, just real 20-min conversations. `Kotlin` `Go` `Firebase`
-- **[ARTH](https://github.com/rish106-hub/ARTH)** — India's first tax gap intelligence app. Every rupee you overpay, recovered. `Flutter` `Dart`
-- **[CostSense](https://github.com/rish106-hub/CostSense)** — 9-agent AI pipeline that detects enterprise spend anomalies and acts before the quarter ends. `Python`
-- Contributing patches to **Zulip**, **Joomla**, **Rocket.Chat**, **Twenty**, **Music Blocks**
-- Writing about businesses , product and AI at **[medium.com/@rishavdewan10](https://medium.com/@rishavdewan10)**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 [ARTH](https://github.com/rish106-hub/ARTH)
+**India's first tax gap intelligence app.**
+Finds every rupee salaried Indians overpay in tax — and gets it back. Live on Product Hunt.
+
+`Flutter` `Dart` `Riverpod` `Postgres`
+
+[Product Hunt launch →](https://www.producthunt.com/@rishav_dewan)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ [EatRight](https://github.com/rish106-hub/EatRight)
+**MCP-powered dinner assistant.**
+Completes your meal from what's already in your kitchen, plus the smallest useful add-on from Swiggy Food or Instamart.
+
+`TypeScript` `MCP` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤫 [Raaz](https://github.com/rish106-hub/Raaz)
+**Anonymous, structured conversations for Indian Gen Z.**
+No profiles, no photos — just real 20-minute conversations that turn loneliness into connection.
+
+`Kotlin` `Go` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [CostSense](https://github.com/rish106-hub/CostSense)
+**Autonomous cost intelligence.**
+A 9-agent AI pipeline that finds enterprise spend anomalies, scores their financial impact, and acts before the quarter ends.
+
+`Python` `Multi-Agent AI`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Also shipped:** [Leadline](https://github.com/rish106-hub/Leadline) — WhatsApp lead capture straight into Google Sheets · [NEET-counselling](https://github.com/rish106-hub/NEET-counselling) — next-step guidance for 22 lakh+ NEET aspirants
+
+</div>
+
+---
+
+## Open Source
+
+Building in the open means contributing to it, too — across projects with real users and real maintainers reviewing every line.
+
+| Project | Domain | Where I've contributed |
+|---|---|---|
+| [**Sugar Labs · Music Blocks**](https://github.com/sugarlabs/musicblocks) | Creative-coding education | Runtime stability — memory leaks, null-safety, race conditions in the block editor and audio engine |
+| [**Apache Superset**](https://github.com/apache/superset) | Data visualization | Dashboard theming — consistent design-token usage across chart components |
+| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | Secure comms platform | Livechat UX, video-conference notifications, search indexing, permission handling |
+| [**Zulip**](https://github.com/zulip/zulip) | Team chat | Search relevance ranking |
+| [**Twenty**](https://github.com/twentyhq/twenty) | Open-source CRM | Localization fixes in the command menu |
+| [**Joomla CMS**](https://github.com/joomla/joomla-cms) | Content management | Backend authorship logic |
 
 ---
 
@@ -47,13 +110,14 @@ Indian consumer tech. Agentic AI. Platforms that connect people in ways that act
 
 > *Most PMs write docs. I write docs AND the code that ships them.*
 
-I approach every product with three questions:
+I write about business models and product strategy in Indian consumer tech — deconstructing how companies actually win.
 
-**What problem?** — Validated with real users, not assumptions.
-**What metric moves?** — If I can't name it, I don't build it.
-**What's the smallest thing that proves it?** — Ruthless prioritisation over feature sprawl.
+- [Beyond the 10-Minute Delivery: 5 Counter-Intuitive Truths Reshaping Indian Retail](https://medium.com/@rishavdewan10)
+- [Breaking Down PW: Building a Billion-Dollar EdTech Empire in Bharat](https://medium.com/@rishavdewan10)
+- [How Kuku FM Unlocked India's Vernacular Audio Market](https://medium.com/@rishavdewan10)
+- [Decoding Meesho's Ultra-Efficient, Merchant-First Strategy](https://medium.com/@rishavdewan10)
 
-Portfolio: **[ProductHunt →](https://www.producthunt.com/@rishav_dewan)**
+**[Read more on Medium →](https://medium.com/@rishavdewan10)**
 
 ---
 
@@ -63,76 +127,21 @@ Portfolio: **[ProductHunt →](https://www.producthunt.com/@rishav_dewan)**
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,go,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,go,dart&theme=dark" />
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,android,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,android,flutter,tailwind&theme=dark" />
 
 **Backend & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,firebase,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase,postgres,docker&theme=dark" />
 
 **Toolchain**
 
 <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode&theme=dark" />
 
 </div>
-
----
-
-## PM Toolkit
-
-<div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-0d1117?style=for-the-badge&logo=linear&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-0d1117?style=for-the-badge&logo=miro&logoColor=FFD02F)
-![PostHog](https://img.shields.io/badge/PostHog-0d1117?style=for-the-badge&logo=posthog&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Analytics-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiM3MDQyZjUiLz48L3N2Zz4=&logoColor=white)
-
-</div>
-
----
-
-## Projects
-
-<div align="center">
-
-[![Raaz](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=Raaz&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/Raaz)
-[![ARTH](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=ARTH&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/ARTH)
-
-[![CostSense](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=CostSense&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/CostSense)
-[![EatRight](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=EatRight&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/EatRight)
-
-[![Leadline](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=Leadline&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/Leadline)
-[![NEET-counselling](https://github-readme-stats.vercel.app/api/pin/?username=rish106-hub&repo=NEET-counselling&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)](https://github.com/rish106-hub/NEET-counselling)
-
-</div>
-
----
-
-## Open Source
-
-I don't just use open source. I contribute to it.
-
-| Project | Domain | What I work on | Stack |
-|---|---|---|---|
-| [**Zulip**](https://github.com/zulip/zulip) | Team Chat | Search ranking, message rendering, bookend logic | Python · TypeScript |
-| [**Joomla CMS**](https://github.com/joomla/joomla-cms) | CMS | Frontend module fixes, webservice layer patches | PHP · JavaScript |
-| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | CommsOS | Secure communications platform | TypeScript |
-| [**Twenty**](https://github.com/twentyhq/twenty) | CRM | Open-source Salesforce alternative | TypeScript |
-| [**Music Blocks**](https://github.com/sugarlabs/musicblocks) | Education | Creative coding environment for children | JavaScript |
-
----
-
-## Writing
-
-Product thinking. AI. Building for India. No fluff.
-
-**[medium.com/@rishavdewan10](https://medium.com/@rishavdewan10)**
 
 ---
 
