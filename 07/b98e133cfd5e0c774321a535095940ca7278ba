@@ -1,0 +1,23 @@
+assets/top-languages.svg
+  s_ea2b75b5d04dc9::t_db3341e5765e21 1-30
+README.md
+  s_ea2b75b5d04dc9::t_db3341e5765e21 133-134
+assets/github-stats.svg
+  s_ea2b75b5d04dc9::t_db3341e5765e21 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "07b98e133cfd5e0c774321a535095940ca7278ba",
+  "prompts": {},
+  "sessions": {
+    "s_ea2b75b5d04dc9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f380c-a065-7c43-89be-ad276b61f56d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
