@@ -130,8 +130,8 @@ I write about business models, product strategy, and market shifts in Indian con
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rish106-hub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=d1d5db&count_private=true&include_all_commits=true" alt="Rishav Dewan GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish106-hub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=d1d5db&langs_count=8" alt="Rishav Dewan top languages" />
+<img height="170" src="./assets/github-stats.svg" alt="Rishav Dewan GitHub stats" />
+<img height="170" src="./assets/top-languages.svg" alt="Rishav Dewan top languages" />
 
 <br/>
 <br/>
