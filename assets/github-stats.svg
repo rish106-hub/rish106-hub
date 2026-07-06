@@ -1,0 +1,21 @@
+<svg width="420" height="170" viewBox="0 0 420 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rishav Dewan GitHub stats</title>
+  <desc id="desc">Static GitHub profile stats for Rishav Dewan.</desc>
+  <rect width="420" height="170" rx="10" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="419" height="169" rx="9.5" stroke="#30363D"/>
+  <text x="24" y="34" fill="#60A5FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">GitHub Snapshot</text>
+  <text x="24" y="58" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Public footprint as of July 2026</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="24" y="80" width="110" height="58" rx="8" fill="#161B22"/>
+    <text x="40" y="106" fill="#F0F6FC" font-size="22" font-weight="700">68</text>
+    <text x="40" y="126" fill="#8B949E" font-size="12">Public repos</text>
+    <rect x="155" y="80" width="110" height="58" rx="8" fill="#161B22"/>
+    <text x="171" y="106" fill="#F0F6FC" font-size="22" font-weight="700">86</text>
+    <text x="171" y="126" fill="#8B949E" font-size="12">Merged PRs</text>
+    <rect x="286" y="80" width="110" height="58" rx="8" fill="#161B22"/>
+    <text x="302" y="106" fill="#F0F6FC" font-size="22" font-weight="700">6</text>
+    <text x="302" y="126" fill="#8B949E" font-size="12">Followers</text>
+  </g>
+  <path d="M24 151H396" stroke="#30363D"/>
+  <text x="24" y="160" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Product builds, open-source contributions, AI experiments, dashboards, and mobile apps.</text>
+</svg>
