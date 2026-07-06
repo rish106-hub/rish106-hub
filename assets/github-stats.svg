@@ -10,7 +10,7 @@
     <text x="40" y="106" fill="#F0F6FC" font-size="22" font-weight="700">68</text>
     <text x="40" y="126" fill="#8B949E" font-size="12">Public repos</text>
     <rect x="155" y="80" width="110" height="58" rx="8" fill="#161B22"/>
-    <text x="171" y="106" fill="#F0F6FC" font-size="22" font-weight="700">86</text>
+    <text x="171" y="106" fill="#F0F6FC" font-size="22" font-weight="700">87</text>
     <text x="171" y="126" fill="#8B949E" font-size="12">Merged PRs</text>
     <rect x="286" y="80" width="110" height="58" rx="8" fill="#161B22"/>
     <text x="302" y="106" fill="#F0F6FC" font-size="22" font-weight="700">6</text>
