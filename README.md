@@ -16,16 +16,12 @@
 
 ## The Build Room
 
-I build products where the user problem is specific, the workflow is messy, and the solution needs both product taste and engineering depth.
+I build products for specific, high-friction workflows: tax filing, food planning,
+student counselling, relationship rituals, sales capture, Git recovery, and open-source
+maintenance work where small edge cases matter.
 
-| Current signal | What it means |
-|---|---|
-| **Reimagining products @Arthakram** | Public GitHub profile bio and current company signal. |
-| **New Delhi, India** | Building with a strong bias toward Indian consumer and workflow problems. |
-| **68 public repositories** | Product builds, AI experiments, dashboards, mobile apps, learning archives, and open-source forks. |
-| **87 merged PRs found via GitHub search** | Public merged pull requests across owned repos and external open-source projects. |
-
-My product loop is simple: find the real pain, ship the smallest credible surface, make the system safe, polish the interface, and keep receipts in public.
+The throughline is simple: find the real pain, ship the smallest credible surface,
+make the system safe, polish the interface, and keep receipts in public.
 
 ---
 
